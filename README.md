@@ -2,25 +2,10 @@
 
 ## Getting started
 
-Run the following scripts:
+install nr1 cli tool and Run the following scripts:
 
 ```
 npm install
 npm start
+nr1 nerdpack:serve
 ```
-
-Visit https://one.newrelic.com/?nerdpacks=local and :sparkles:
-
-## Creating new artifacts
-
-If you want to create new artifacts run the following command:
-
-```
-nr1 create
-```
-
-> Example: `nr1 create --type nerdlet --name my-nerdlet`.
-
-## Serve
-
-run `nr1 nerdpack:serve`
